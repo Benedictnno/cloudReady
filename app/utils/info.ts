@@ -46,8 +46,33 @@ export const production:TechType[]= [
   
 ]
 
+export const Faq = [{main:'What is a fractional CTO and how can CloudReady help?' ,sub:`A fractional CTO, or Chief Technology Officer, is a professional who provides technical leadership, guidance, and expertise to a company on a part-time or project-based basis, rather than as a full-time employee. This arrangement allows businesses, particularly startups and small to medium-sized enterprises, to benefit from the strategic insights and experience of a CTO without the cost and commitment associated with hiring a full-time executive.
+
+CloudReady offers access to a network of highly skilled fractional CTOs who can help your business make informed decisions about technology strategy, software development, infrastructure management, and other technology-related aspects. Our experts work closely with your leadership and development teams to ensure the successful planning, execution, and delivery of software projects while maximizing efficiency, security, and scalability.
+
+By partnering with CloudReady, you gain access to top-notch technical expertise tailored to your specific needs and goals. Our subscription-based model allows you to scale up or down as your needs change, giving you the flexibility to adjust your level of engagement with our expert team. Ultimately, this helps your business drive better results and stay competitive in the ever-evolving tech landscape.`}
+,{main :`Why wouldn't I just hire a full-time CTO?`, sub :`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+`}, {main :`Why do you price your work this way?`, sub:`
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+  
+  `},{main: `How do you match me with the right expert for my project?`,sub:`
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+    
+    `},
+    {main:`How do you match me with the right expert for my project?`, sub:`
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+      `
+
+      },{main:`What industries or types of projects do you have experience with?`,sub:`
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+        
+        `},{main : `Do you offer UI/UX design or development services?`,sub:`
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt accusantium esse dicta quaerat reprehenderit exercitationem omnis quasi, veritatis eligendi debitis quidem ipsum ea assumenda dolore corporis temporibus voluptatum deserunt nihil.
+          
+          `}
 
 
+]
 
 
 
