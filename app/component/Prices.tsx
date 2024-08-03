@@ -16,7 +16,7 @@ function Prices() {
             <button className='hover:cursor-pointer rounded w-full mt-2 mb-5 border-textColor border px-4 py-3'>
                 Get Started
             </button>
-            <h3>What’s included</h3>
+            <h3>What&apos;s included</h3>
             <ul>
                 <li className='flex my-2 text-sm'> <Check size={20}/> Unlimited request</li>
                 <li className='flex my-2 text-sm'> <Check size={20}/>Unlimited projects</li>
@@ -39,7 +39,7 @@ function Prices() {
             <button className='hover:cursor-pointer bg-textColor rounded w-full mt-2 mb-5 px-4 py-3'>
                 Get Started
             </button>
-            <h3>What's included</h3>
+            <h3>What&apos;s included</h3>
             <ul>
                 <li className='flex my-2 text-sm'> <Check size={20}/> Unlimited request</li>
                 <li className='flex my-2 text-sm'> <Check size={20}/>Unlimited projects</li>
@@ -60,9 +60,9 @@ function Prices() {
             <p className='mt-2 mb-5'>pause or cancel anytime</p>
 
             <button className='hover:cursor-pointer rounded w-full mt-2 mb-5 border-textColor border px-4 py-3'>
-               Let's Talk
+               Let&apos;s Talk
             </button>
-            <h3>What’s included</h3>
+            <h3>What&apos;s included</h3>
             <ul>
                 <li className='flex my-2 text-sm'> <Check size={20}/> Unlimited request</li>
                 <li className='flex my-2 text-sm'> <Check size={20}/>Unlimited projects</li>

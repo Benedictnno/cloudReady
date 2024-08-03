@@ -115,7 +115,7 @@ export default function Home() {
   </section>
   {/* price */}
 <h2  className="text-textColor text-center text-4xl font-bold">For one fixed monthly fee</h2>
-<p>Choose the plan that's right for you</p>
+<p>Choose the plan that&apos;s right for you</p>
 
 <Prices/>
 <h1 className="text-textColor text-center text-4xl font-bold">FAQs</h1>
@@ -134,7 +134,7 @@ export default function Home() {
 </div>
 {/*  */}
 
-<h1 className="text-textColor text-center mt-5 text-4xl font-bold">Release better software, that's on time, with no stress...</h1>
+<h1 className="text-textColor text-center mt-5 text-4xl font-bold">Release better software, that&apos;s on time, with no stress...</h1>
 <p>Join CloudReady and see how you and your team can change the way you build applications, forever.</p>
 
 <button className='font-semibold hover:cursor-pointer rounded w-5/12  mt-5 mb-5 border-textColor border px-4 py-3'>
